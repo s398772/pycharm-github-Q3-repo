@@ -1,7 +1,5 @@
 # ==========================
 # Assignment 3: Turtle Recursive Pattern
-# Author: Sharif Mohiminul Jahid
-# Description:
 # This program uses recursion and the turtle module
 # to draw a recursive pattern on each edge of a polygon.
 # ==========================
